@@ -1,6 +1,6 @@
 {
-  "name": "@emirayka/typescript-rollup-boilerplate",
-  "version": "0.0.2",
+  "name": "@emirayka/option-result",
+  "version": "0.0.3",
   "description": "Typescript + rollup + babel boilerplate",
   "keywords": [
     "boilerplate",
